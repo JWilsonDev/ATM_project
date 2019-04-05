@@ -1,0 +1,21 @@
+.root{
+	-fx-background-color: white;
+}
+.ReceiptTop{
+	-fx-border-color: transparent transparent black transparent;
+	-fx-border-width: 1;
+	-fx-border-style: dashed;
+	-fx-padding: 0 0 15 0;
+}
+.Receipt{
+	-fx-font-size: 14px;
+	-fx-padding: 5;
+	-fx-vgap: 15
+}
+.LogoContainer{
+	-fx-alignment: center;
+	-fx-border-color: transparent transparent black transparent;
+	-fx-border-width: 1;
+	-fx-border-style: dashed;
+	-fx-padding: 0 0 15 0;
+}
